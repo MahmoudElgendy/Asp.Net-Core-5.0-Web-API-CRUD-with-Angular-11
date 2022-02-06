@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dEROkzN+By4TTupi5Oy+1SzKVSPZ4Xi6cOT93wLpy9cFbpiW+4YoK6OkSnVkPy3aAubX+DEBzLklvlwvwR9oyg==",
+  "dgSpecHash": "rc7gzglLUdt4bx7UqjcezyfJ+oGJIf5AdCkP7TLK+FaDVDEhTuL1o/z60RTxZiUhSA7UVSiD/vVMSFfRtfu59Q==",
   "success": true,
-  "projectFilePath": "E:\\git\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+  "projectFilePath": "E:\\Angular\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melgendi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\melgendi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

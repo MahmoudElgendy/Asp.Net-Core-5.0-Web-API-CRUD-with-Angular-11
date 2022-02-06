@@ -7634,11 +7634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "E:\\Angular\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "E:\\git\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectPath": "E:\\Angular\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "packagesPath": "C:\\Users\\melgendi\\.nuget\\packages\\",
-      "outputPath": "E:\\git\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\obj\\",
+      "outputPath": "E:\\Angular\\Asp.Net-Core-5.0-Web-API-CRUD-with-Angular-11\\PaymentAPI\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melgendi\\AppData\\Roaming\\NuGet\\NuGet.Config",
